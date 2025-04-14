@@ -10,7 +10,6 @@ Neste desafio, duas cartas contendo dados de cidades "lutam" entre si com base e
 ### ✔️ Requisitos Funcionais
 
 - [x] Leitura completa dos dados de duas cartas Super Trunfo
-- [x] Uso do tipo `unsigned long int` para armazenar população
 - [x] Cálculo da **Densidade Populacional**
 - [x] Cálculo do **PIB per Capita**
 - [x] Cálculo do **Super Poder** com base nos atributos (inclusive o inverso da densidade)
@@ -42,4 +41,4 @@ Neste desafio, duas cartas contendo dados de cidades "lutam" entre si com base e
 
 ---
 
-Desenvolvido por **Raphael Nascimento** 💻
+Desenvolvido por **Raphael Cypreste** 💻
