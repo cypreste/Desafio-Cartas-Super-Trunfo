@@ -35,7 +35,7 @@ Neste desafio, duas cartas contendo dados de cidades "lutam" entre si com base e
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem C (padrão ANSI C)
+- Linguagem C 
 - Compilado via GCC
 
 
